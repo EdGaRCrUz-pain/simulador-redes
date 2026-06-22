@@ -1,5 +1,5 @@
-!pip install streamlit matplotlib numpy -q
-!npm install -g localtunnel -q
+pip install streamlit matplotlib numpy -q
+npm install -g localtunnel -q
 
 %%writefile app.py
 import streamlit as st
